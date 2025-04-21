@@ -1,0 +1,36 @@
+
+@media(max-width:1000) and(min-width:767){
+    .div{
+        display:felx;
+        flex-direction: row;
+        justify-content:space-evenly;
+        flex:wrap;
+        
+     }
+     #labtop{
+        background-color: aliceblue;
+        
+     }
+    }
+@media(max-width:1500) and(min-width:1000){
+    .div{
+        display:felx;
+        justify-content:space-evenly;
+        flex:wrap;
+     }
+     #tablet{
+        background-color: aliceblue;
+        
+     }
+    }
+@media(max-width:767) and(min-width:450){
+    
+     #mobile{
+        background-color: aliceblue;
+        padding:10px;
+        justify-content:space-evenly;
+    
+     }
+    }
+   
+   
